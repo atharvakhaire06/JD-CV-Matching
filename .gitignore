@@ -1,0 +1,9 @@
+*.[aeiou]
+*.env
+*.pkl
+.vscode/
+env/
+ignore/
+*.pyc
+uploads/
+kb.py
